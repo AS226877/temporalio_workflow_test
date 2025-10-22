@@ -1,0 +1,8 @@
+*.log
+__pycache__/
+*.pyc
+.idea/
+.env.local
+.DS_Store
+/.safety-project.ini
+.env
